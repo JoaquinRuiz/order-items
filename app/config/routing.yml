@@ -1,0 +1,8 @@
+joki_joki:
+    resource: "@JokiJokiBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
